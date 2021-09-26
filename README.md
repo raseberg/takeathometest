@@ -24,7 +24,8 @@ This is what you will need to set it up and run it on your windows computer:
 #### Set up your Telnyx Portal
 Complete the steps outlined on the [Messaging > Quickstarts > Portal Setup](https://developers.telnyx.com/docs/v2/messaging/quickstarts/portal-setup#mission-control-portal-set-up) developer page. You will:
 - [Create a Telnyx account](https://telnyx.com/sign-up)
-- [Purchase an SMS-capable phone number](https://https://portal.telnyx.com/#/app/numbers/search-numbers) with Telnyx (**NOTE**: Number must be configured to use [P2P traffic type](https://telnyx.com/resources/sms-numbers-traffic-types)).
+- [Purchase an SMS-capable phone number](https://https://portal.telnyx.com/#/app/numbers/search-numbers) with Telnyx 
+	- **NOTE**: Number must be configured to use [P2P traffic type](https://telnyx.com/resources/sms-numbers-traffic-types).
 - [Create a messaging profile](https://portal.telnyx.com/#/app/messaging)
 - Assign your phone number to your messaging profile
 
