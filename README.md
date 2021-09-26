@@ -8,10 +8,10 @@ This is a simple SMS Auto-Responder application. It will respond with one of thr
 ## Introduction
 
 **The step-by-step instructions below are written for beginners.**
-> This section is a quickstart for users who know about GIT, NODE, NPM, tunneling servers such as NGROK, and how to use the Telnyx portal for buying and configuring SMS-capable Phone Number. Other users, continue to the step by step instruction below; 
+> This section is a quickstart for users who know about GIT, NODE, NPM, tunneling servers such as NGROK, and how to use the Telnyx portal for buying and configuring P2P SMS-capable Phone Number. Other users, continue to the step by step instruction below; 
 > - Clone this repository, then run `npm install` to install dependencies.
 > - Add your Telnyx API Key and your Telnyx Public Key to the .env file. 
-> - Start NGINX using the port provided in the .env (5000).
+> - Start NGINX using the port 5000, or the one provided in the .env.
 > - Update your telnyx inbound webhook URL with the nginx url followed by */messaging/inbound*. 
 > - Run the index.js file. 
 > - Test and **Enjoy!**
