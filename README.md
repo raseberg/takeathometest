@@ -35,7 +35,7 @@ Complete the steps outlined on the [Messaging > Quickstarts > Portal Setup](http
 	-	Feel free to place this folder wherever you want on your disk, even though examples in this instruction suggest you are using c:\takeathometest\
 - Download and unzip [NGROK](https://developers.telnyx.com/docs/v2/development/ngrok) to C:\Windows\ 
 	-	**NOTE:** NGROK.exe can be located in any folder of your choice. Advantage of storing the file in e.g. C:\windows\ is because that allows you to easily run the file from any command promt folder you currently are working in.
-- Download and unzip [THIS REPOSITORY](https://github.com/raseberg/takeathometest.zip) to c:\takeathometest\
+- Download and unzip [THIS REPOSITORY](https://github.com/raseberg/takeathometest/archive/refs/heads/main.zip) to c:\takeathometest\
 - REBOOT YOUR COMPUTER
 
 #### Configure and Run the SMS Autoreponder server
