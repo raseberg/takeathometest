@@ -77,9 +77,7 @@ Now; Everything should be up and running. Try and send a SMS to your telnyx numb
 > *BUG?* The log suggests that the Autoresponder sends TWO messages in reply to the incoming SMS. Don't worry - that's a log error. It only sends and counts ONE SMS as expected.
 
 
-## How I approced the task
-I really wanted to spend as much time as possible and end up with a impressive self made solution the world never had seen before. 
-> **OK** I realize that this was a little bit too ambitious for someone just starting to learn about coding. But I always set big goals and try to give a little bit more than expected.
+## SOURCE
+This autoresponder is based on (https://github.com/dapperAuteur/telnyx-take-home-test).
 
-**Source** This autoresponder is based on (https://github.com/dapperAuteur/telnyx-take-home-test).
-- A cleaner and easier version in java is the [express-node-autoresponder](https://github.com/team-telnyx/demo-node-telnyx/tree/master/express-sms-autoresponder) made by team-telnyx, or their PHP [slim-sms-autoresponder](https://github.com/team-telnyx/demo-php-telnyx/tree/master/slim-sms-autoresponder).
+A cleaner and easier version in java is the [express-node-autoresponder](https://github.com/team-telnyx/demo-node-telnyx/tree/master/express-sms-autoresponder) made by team-telnyx, or their PHP [slim-sms-autoresponder](https://github.com/team-telnyx/demo-php-telnyx/tree/master/slim-sms-autoresponder).
