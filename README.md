@@ -81,3 +81,15 @@ Now; Everything should be up and running. Try and send a SMS to your telnyx numb
 This autoresponder is based on (https://github.com/dapperAuteur/telnyx-take-home-test).
 
 A cleaner and easier version in java is the [express-node-autoresponder](https://github.com/team-telnyx/demo-node-telnyx/tree/master/express-sms-autoresponder) made by team-telnyx, or their PHP [slim-sms-autoresponder](https://github.com/team-telnyx/demo-php-telnyx/tree/master/slim-sms-autoresponder).
+
+## Some of what I have learned a little bit about during the last days while working on this:
+- How to use NODE to run Java locally on my computer.
+- How to run PHP locally on the PHP server (previously posted everything to a local APACHE server before testing).
+- How I can use NGROK as a tulleling server for my local deployments.
+- How package.json or composer.json can be used to easily install or update dependencies to NODE or PHP.
+- How webhooks are different to API's. A simplified explination would be that webhooks automatically responds to actions based on defined criterias, while API's are only preforming actions when asked to do so.
+- Difference between A2P and P2P when configuring numbers in Telnyx.
+- How to pull or post to Github (including writing README.MD, using .gitignore to avoid posting things you don't want in git)
+- How to install and test any of the Telnyx examples on github.
+
+> It's a small step for man kind, but it's a giant leap for Raymond. Sky is the limit with this new born knowlege.
